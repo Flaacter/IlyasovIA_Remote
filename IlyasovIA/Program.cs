@@ -6,5 +6,5 @@
         {
             Console.WriteLine("Hello, World!");
         }
-    }
+    }//solve task2
 }//Ильясов Ильнар Айратович Ам-1-24
