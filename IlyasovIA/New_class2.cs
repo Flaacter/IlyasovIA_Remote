@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IlyasovIA
 {
-    internal class New_class
+    internal class New_class2
     {
     }
 }
