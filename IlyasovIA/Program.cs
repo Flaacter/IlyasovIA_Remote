@@ -2,9 +2,9 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static public double Sqr (double X)
         {
-            Console.WriteLine("Hello, World!");
+           return X*X;
         }
     }//solve task2
 }//Ильясов Ильнар Айратович Ам-1-24
