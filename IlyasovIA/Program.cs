@@ -2,9 +2,11 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static public double Sqr (double X)
         {
-            Console.WriteLine("Hello, World!");
+           return X*X;
+        }
+    }
         }
     }//solve task1
     //solve task2
